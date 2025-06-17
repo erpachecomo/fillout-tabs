@@ -1,0 +1,3 @@
+.tab-selected {
+    filter: invert(67%) sepia(33%) saturate(3043%) hue-rotate(357deg) brightness(100%) contrast(92%);
+}
